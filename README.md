@@ -1,5 +1,5 @@
 # Introduction
-Plugin for CraftCMS that imports events from a Facebook page
+Plugin for CraftCMS 2 that imports events from a Facebook page
 
 # Required Settings
 
